@@ -1,0 +1,123 @@
+[
+  {
+    "id": "inc_1772921638532",
+    "title": "Kida being loud",
+    "description": "some kids making so much noise at night, keep your kids in check please",
+    "category": "neighborhood_hazard",
+    "location": "North Frisco",
+    "severity": "medium",
+    "status": "verified",
+    "source": "community group chats",
+    "timestamp": "2026-03-07T22:13:58.532Z"
+  },
+  {
+    "id": "inc_001",
+    "title": "Fake utility payment email reported",
+    "description": "Residents received an email pretending to be from the city utility office asking for urgent payment.",
+    "category": "phishing",
+    "location": "North Frisco",
+    "severity": "medium",
+    "status": "unverified",
+    "source": "Neighborhood Board",
+    "timestamp": "2026-03-06T09:00:00Z"
+  },
+  {
+    "id": "inc_002",
+    "title": "Multiple fake toll payment texts reported",
+    "description": "Several users reported text messages asking them to pay overdue toll charges through a suspicious link.",
+    "category": "scam",
+    "location": "North Frisco",
+    "severity": "high",
+    "status": "verified",
+    "source": "Community Forum",
+    "timestamp": "2026-03-06T10:30:00Z"
+  },
+  {
+    "id": "inc_003",
+    "title": "Repeated vehicle break-in posts near apartment complex",
+    "description": "Three similar reports mention overnight vehicle break-ins in the same parking area.",
+    "category": "burglary",
+    "location": "West Frisco",
+    "severity": "high",
+    "status": "unverified",
+    "source": "Neighborhood Board",
+    "timestamp": "2026-03-05T23:10:00Z"
+  },
+  {
+    "id": "inc_004",
+    "title": "Suspicious QR code flyer found in lobby",
+    "description": "A resident reported a flyer with a QR code that redirected to a fake account login page.",
+    "category": "phishing",
+    "location": "West Frisco",
+    "severity": "medium",
+    "status": "verified",
+    "source": "Building Manager",
+    "timestamp": "2026-03-05T18:45:00Z"
+  },
+  {
+    "id": "inc_005",
+    "title": "Loose streetlight wiring near park entrance",
+    "description": "Exposed wiring was reported near the entrance walkway and may pose a safety risk.",
+    "category": "neighborhood_hazard",
+    "location": "Central Frisco",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "City Watch Group",
+    "timestamp": "2026-03-04T16:20:00Z"
+  },
+  {
+    "id": "inc_006",
+    "title": "Home router default password warning",
+    "description": "A local digital safety workshop warned that several households are still using default router passwords.",
+    "category": "network_security",
+    "location": "Central Frisco",
+    "severity": "low",
+    "status": "verified",
+    "source": "Remote Work Club",
+    "timestamp": "2026-03-04T13:00:00Z"
+  },
+  {
+    "id": "inc_007",
+    "title": "Unverified post about gas leak spreads quickly",
+    "description": "A widely shared social post claimed there was a gas leak, but no official source confirmed it.",
+    "category": "misinformation",
+    "location": "South Frisco",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "Community Forum",
+    "timestamp": "2026-03-06T07:40:00Z"
+  },
+  {
+    "id": "inc_008",
+    "title": "Package theft reports increase on one block",
+    "description": "Residents on the same block reported missing delivered packages over two consecutive days.",
+    "category": "burglary",
+    "location": "South Frisco",
+    "severity": "medium",
+    "status": "unverified",
+    "source": "Neighborhood Board",
+    "timestamp": "2026-03-05T20:15:00Z"
+  },
+  {
+    "id": "inc_009",
+    "title": "Fake bank password reset email",
+    "description": "Residents received an email claiming unusual banking activity and requesting password reset through a non-bank link.",
+    "category": "phishing",
+    "location": "North Frisco",
+    "severity": "high",
+    "status": "verified",
+    "source": "Community Forum",
+    "timestamp": "2026-03-06T11:10:00Z"
+  },
+  {
+    "id": "inc_010",
+    "title": "Community center Wi-Fi portal imitation",
+    "description": "A spoofed captive portal appeared near the community center asking users to sign in with email credentials.",
+    "category": "network_security",
+    "location": "West Frisco",
+    "severity": "high",
+    "status": "verified",
+    "source": "Remote Work Club",
+    "timestamp": "2026-03-05T14:35:00Z"
+  }
+]
